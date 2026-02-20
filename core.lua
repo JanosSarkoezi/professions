@@ -4,6 +4,8 @@
 local iconTable = {
     ["Schneiderei"] = "Interface\\Icons\\Trade_Tailoring",
     ["Verzauberung"] = "Interface\\Icons\\Trade_Engraving",
+    ["Juwelenschmiedekunst"] = "Interface\\Icons\\Inv_jewelcrafting_gem_32",
+    ["Verteidigung"] = "Interface\\Icons\\Inv_shield_06",
     ["Alchemie"] = "Interface\\Icons\\Trade_Alchemy",
     ["Schmiedekunst"] = "Interface\\Icons\\Trade_Blacksmithing",
     ["Lederverarbeitung"] = "Interface\\Icons\\Trade_Leatherworking",
