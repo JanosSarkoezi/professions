@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: Mein Erstes Addon
 ## Notes: Ein ganz simples Test-Addon für Ascension.
-## Author: Dein Name
+## Author: SJames
 
 core.lua
